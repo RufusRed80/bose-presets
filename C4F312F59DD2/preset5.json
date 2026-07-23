@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+  },
+  "imageUrl": "",
+  "name": "NDR 2",
+  "streamType": "liveRadio"
+}
