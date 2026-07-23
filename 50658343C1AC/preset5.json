@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
+  },
+  "imageUrl": "",
+  "name": "NDR Kultur",
+  "streamType": "liveRadio"
+}
