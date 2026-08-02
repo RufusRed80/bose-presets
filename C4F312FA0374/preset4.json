@@ -2,9 +2,9 @@
   "audio": {
     "hasPlaylist": false,
     "isRealtime": true,
-    "streamUrl": "http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3"
+    "streamUrl": "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3"
   },
-  "imageUrl": "",
-  "name": "WDR 4",
+  "imageUrl": "http://www.ndr.de/favicon.ico",
+  "name": "Njoy",
   "streamType": "liveRadio"
 }
