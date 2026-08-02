@@ -2,9 +2,9 @@
   "audio": {
     "hasPlaylist": false,
     "isRealtime": true,
-    "streamUrl": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+    "streamUrl": "http://mp3channels.webradio.antenne.de/chillout"
   },
   "imageUrl": "",
-  "name": "NDR 2",
+  "name": "Antenne Bayern - Chillout",
   "streamType": "liveRadio"
 }
