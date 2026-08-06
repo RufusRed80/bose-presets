@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "http://mp3channels.webradio.antenne.de/chillout"
+  },
+  "imageUrl": "",
+  "name": "Antenne Bayern - Chillout",
+  "streamType": "liveRadio"
+}
